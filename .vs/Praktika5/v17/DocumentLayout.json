@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|e:\\users\\xiamaksi\\source\\repos\\praktika5\\praktika5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Class1.cs",
+              "RelativeDocumentMoniker": "Praktika5\\Class1.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Class1.cs",
+              "RelativeToolTip": "Praktika5\\Class1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:57:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Attributes.cs",
+              "RelativeDocumentMoniker": "Praktika5\\Attributes.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Attributes.cs",
+              "RelativeToolTip": "Praktika5\\Attributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:56:38.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika5\\Program.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Program.cs",
+              "RelativeToolTip": "Praktika5\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:56:09.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
