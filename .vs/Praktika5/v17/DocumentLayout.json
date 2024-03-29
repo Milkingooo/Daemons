@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\",
+  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|e:\\users\\xiamaksi\\source\\repos\\praktika5\\praktika5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|e:\\users\\xiamaksi\\desktop\\\u0445\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\daemons(\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\praktika5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274B4A9D-1F3D-4257-9A8F-76B2C71060A8}|Praktika5\\Praktika5.csproj|solutionrelative:praktika5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Class1.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Class1.cs",
               "RelativeDocumentMoniker": "Praktika5\\Class1.cs",
-              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Class1.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Class1.cs",
               "RelativeToolTip": "Praktika5\\Class1.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAYwEgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T21:57:56.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Attributes.cs",
-              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Attributes.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Attributes.cs",
               "RelativeDocumentMoniker": "Praktika5\\Attributes.cs",
-              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Attributes.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Attributes.cs",
               "RelativeToolTip": "Praktika5\\Attributes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T21:56:38.916Z",
               "EditorCaption": ""
@@ -62,11 +62,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Program.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Program.cs",
               "RelativeDocumentMoniker": "Praktika5\\Program.cs",
-              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Praktika5\\Praktika5\\Program.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\Desktop\\\u0425\u0443\u0439\u043D\u044F \u0441 \u043A\u043E\u0434\u0430\u043C\u0438\\\u043C\u0434\u043A 01.04\\Daemons(\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u21165)\\Praktika5\\Program.cs",
               "RelativeToolTip": "Praktika5\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAABHAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T21:56:09.709Z",
               "EditorCaption": ""

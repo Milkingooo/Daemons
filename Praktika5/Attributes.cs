@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; 
 public class BrainAttribute : Attribute
 {
     public int MinimumValue { get; private set; }
@@ -27,3 +27,7 @@ public enum MonsterType
     Stone,
     Pelmeni
 }
+
+            /*---------------------*\ 
+            | Copied From Pc #12 :) | 
+            \*---------------------*/

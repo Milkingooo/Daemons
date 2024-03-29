@@ -61,7 +61,16 @@ namespace Praktika5
             //         throw new ArgumentException("Brain value is below minimum allowed value");
             //     }
             // }
-            Daemon[] daemons = new Daemon[]
+
+
+
+            /*---------------------*\ 
+            | Copied From Pc #12 :) | 
+            \*---------------------*/
+
+
+
+            Daemon[] daemons = new Daemon[] 
             {
             new Daemon("Daemon1", MonsterType.Air, 2),
             new Daemon("Daemon2", MonsterType.Pelmeni, 5),
@@ -75,12 +84,12 @@ namespace Praktika5
             {
                 if (CheckAttributes(daemon))
                 {
-                    //Console.WriteLine("Attributes are valid for Daemon class.");
+                    Console.WriteLine("Attributes are valid for Daemon class.");
                     validDaemons.Add(daemon);
                 }
                 else
                 {
-                    //Console.WriteLine("Attributes are not valid for Daemon class.");
+                   Console.WriteLine("Attributes are not valid for Daemon class.");
                 }
             }
 

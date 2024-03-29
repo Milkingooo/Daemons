@@ -5,3 +5,10 @@ E:\Users\xiamaksi\source\repos\Praktika5\Praktika5\obj\Debug\Praktika5.csproj.As
 E:\Users\xiamaksi\source\repos\Praktika5\Praktika5\obj\Debug\Praktika5.csproj.CoreCompileInputs.cache
 E:\Users\xiamaksi\source\repos\Praktika5\Praktika5\obj\Debug\Praktika5.exe
 E:\Users\xiamaksi\source\repos\Praktika5\Praktika5\obj\Debug\Praktika5.pdb
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\bin\Debug\Praktika5.exe.config
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\bin\Debug\Praktika5.exe
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\bin\Debug\Praktika5.pdb
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\obj\Debug\Praktika5.csproj.AssemblyReference.cache
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\obj\Debug\Praktika5.csproj.CoreCompileInputs.cache
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\obj\Debug\Praktika5.exe
+E:\Users\xiamaksi\Desktop\Хуйня с кодами\мдк 01.04\Daemons(Практика №5)\Praktika5\obj\Debug\Praktika5.pdb
